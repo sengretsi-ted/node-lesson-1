@@ -1,0 +1,16 @@
+send post request to /create-account
+
+render a (a new page) page that displays the following:
+
+Hello 'Userename'! I am also 'age' years old.
+Your email address is 'email'.
+
+Put your project on Github.
+
+go to heroku.com and create an account
+
+{
+    username:'xxxxx'
+    age:'xx'
+    email:'xxx@xxxx.xxx'
+}
